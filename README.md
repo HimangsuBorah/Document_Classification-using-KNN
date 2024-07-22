@@ -1,0 +1,1 @@
+A document classification model using KNN where the distance measure is used maximal common subgraph. Documents are represented as directed graphs and we used mcs to determine the nearest neighbours of the given document. 
